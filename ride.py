@@ -1,3 +1,4 @@
+A driver completes multiple rides in a day. If daily earnings exceed Rs. 8,000, the company gives a 5% performance bonus. Calculate the final earnings.
 print("HI, You have to just enter your rides i'll calculate your bonus")
 earning = int(input("Enter your total Earnings in a day"))
  
